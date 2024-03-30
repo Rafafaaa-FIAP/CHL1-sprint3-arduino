@@ -43,7 +43,7 @@ Este projeto utilizou as seguintes tecnologias e ferramentas:
   <li><b>DHT22</b>: um sensor desenvolvido para medir temperaturas da faixa de -40°C a +80°C e umidade de 0% a 100%.</li>
 </ul>
 
-<img src="https://github.com/danillosales/sprint3-challenge-icr/blob/main/circuit.PNG" alt="circuit" width="300" />
+<img src="https://github.com/danillosales/sprint3-challenge-icr/blob/main/circuit.PNG" alt="circuit" width="500" />
    
 
 
