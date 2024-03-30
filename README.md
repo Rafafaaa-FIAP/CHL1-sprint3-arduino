@@ -52,7 +52,7 @@ Este projeto utilizou as seguintes tecnologias e ferramentas:
 <h6>Acesse o JSON para importação no Node-RED clicando <a href="https://github.com/danillosales/sprint3-challenge-icr/blob/main/flows.json">aqui</a>.</h6>
 
 ### Dashboard no TagoIO
-<img src="" alt="circuit " width="500" />
+<img src="https://github.com/danillosales/sprint3-challenge-icr/blob/main/dashboard.PNG" alt="dashboard" width="500" />
 
 ## :gear: Como Utilizar
 1. Instalar o [Node-RED](https://nodered.org/);
