@@ -20,7 +20,7 @@
 
 
 ## :bulb: Desafio
-O desafio proposto pela Global Solutions para aprimorar a experiência hospitalar envolve o desenvolvimento de estratégias inovadoras para tornar a visita ao hospital mais agradável, divertida e eficiente. O foco principal é proporcionar benefícios aos pacientes, acompanhantes, visando a redução do tempo de espera, a comunicação eficaz e a diminuição do desconforto durante procedimentos médicos.
+O desafio proposto pela Challenge para aprimorar a experiência hospitalar envolve o desenvolvimento de estratégias inovadoras para tornar a visita ao hospital mais agradável, divertida e eficiente. O foco principal é proporcionar benefícios aos pacientes, acompanhantes, visando a redução do tempo de espera, a comunicação eficaz e a diminuição do desconforto durante procedimentos médicos.
 
 Identificar desafios específicos enfrentados pelos pacientes durante suas visitas ao hospital, propondo soluções para tornar a experiência mais positiva, ágil e agradável. Considerar fatores como entretenimento, comunicação e eficiência nos processos.
 
