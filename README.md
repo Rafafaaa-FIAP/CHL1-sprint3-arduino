@@ -1,4 +1,4 @@
-<h1 align="center">Edge Computing e Computer Systems - Challenge - Sprint 3</h1>
+<h1 align="center">Challenge 1 - Arduino - Sprint 3</h1>
 
 <hr/>
 
@@ -44,28 +44,26 @@ Este projeto utilizou as seguintes tecnologias e ferramentas:
   <li><b>DHT22</b>: um sensor desenvolvido para medir temperaturas da faixa de -40°C a +80°C e umidade de 0% a 100%.</li>
 </ul>
 
-<img src="https://github.com/danillosales/sprint3-challenge-icr/blob/main/circuit.PNG" alt="circuit" width="500" />
-<h6>Acesse o projeto clicando <a href="https://wokwi.com/projects/393651661457510401">aqui</a>.</h6>
+<img src="https://github.com/Rafafaaa-FIAP/CHL1-arduino-sprint3/blob/main/circuit.PNG" alt="circuit" width="500" />
+<h6>Acesse o projeto clicando <a href="https://wokwi.com/projects/406323357735494657">aqui</a>.</h6>
    
 
 
 ### Fluxo
-<img src="https://github.com/danillosales/sprint3-challenge-icr/blob/main/flow.PNG" width="500" />
-<h6>Acesse o JSON para importação no Node-RED clicando <a href="https://github.com/danillosales/sprint3-challenge-icr/blob/main/flows.json">aqui</a>.</h6>
+<img src="https://github.com/Rafafaaa-FIAP/CHL1-arduino-sprint3/blob/main/flow.PNG" width="500" />
+<h6>Acesse o JSON para importação no Node-RED clicando <a href="https://github.com/Rafafaaa-FIAP/CHL1-arduino-sprint3/blob/main/flows.json">aqui</a>.</h6>
 
 ### Dashboard no TagoIO
-<a href="https://drive.google.com/file/d/1122MSFHoiUgabrirKFUBrPQq_it3yQrx/view?usp=sharing" target="blank">
-  <img src="https://github.com/danillosales/sprint3-challenge-icr/blob/main/dashboard.PNG" alt="dashboard" width="500" />
-</a>
-<h6>Acesse o vídeo de demonstração do funcionamento clicando <a href="https://drive.google.com/file/d/1122MSFHoiUgabrirKFUBrPQq_it3yQrx/view?usp=sharing">aqui</a>.</h6>
+<img src="https://github.com/Rafafaaa-FIAP/CHL1-arduino-sprint3/blob/main/dashboard.PNG" alt="dashboard" width="500" />
+<h6>Acesse o vídeo de demonstração do funcionamento clicando <a href="https://youtu.be/tl2RWaOU1Pw">aqui</a>.</h6>
 
 
 ## :gear: Como Utilizar
 
-1. Acessar o circuito montado no [Wokwi](https://wokwi.com/projects/393651661457510401);
-2. Instalar o [Node-RED](https://nodered.org/);
-3. Iniciar o [Node-RED](https://nodered.org/) no computador;
-4. Importar o [fluxo](https://github.com/danillosales/sprint3-challenge-icr/blob/main/flows.json) no [Node-RED](https://nodered.org/) no computador e fazer o deploy;
+1. Acessar o circuito montado no Wokwi;
+2. Instalar o Node-RED;
+3. Iniciar o Node-RED no computador;
+4. Importar o fluxo no Node-RED no computador e fazer o deploy;
 5. Acessar a plataforma TagoIO e acessar a dashboard.
 
 ## :technologist: Integrantes
