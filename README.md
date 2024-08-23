@@ -1,4 +1,4 @@
-<h1 align="center">Challenge 1 - Arduino - Sprint 3</h1>
+<h1 align="center">Challenge 1 - Sprint 3 - Arduino</h1>
 
 <hr/>
 
@@ -44,17 +44,17 @@ Este projeto utilizou as seguintes tecnologias e ferramentas:
   <li><b>DHT22</b>: um sensor desenvolvido para medir temperaturas da faixa de -40°C a +80°C e umidade de 0% a 100%.</li>
 </ul>
 
-<img src="https://github.com/Rafafaaa-FIAP/CHL1-arduino-sprint3/blob/main/circuit.PNG" alt="circuit" width="500" />
+<img src="https://github.com/Rafafaaa-FIAP/CHL1-sprint3-arduino/blob/main/circuit.PNG" alt="circuit" width="500" />
 <h6>Acesse o projeto clicando <a href="https://wokwi.com/projects/406323357735494657">aqui</a>.</h6>
    
 
 
 ### Fluxo
-<img src="https://github.com/Rafafaaa-FIAP/CHL1-arduino-sprint3/blob/main/flow.PNG" width="500" />
-<h6>Acesse o JSON para importação no Node-RED clicando <a href="https://github.com/Rafafaaa-FIAP/CHL1-arduino-sprint3/blob/main/flows.json">aqui</a>.</h6>
+<img src="https://github.com/Rafafaaa-FIAP/CHL1-sprint3-arduino/blob/main/flow.PNG" width="500" />
+<h6>Acesse o JSON para importação no Node-RED clicando <a href="https://github.com/Rafafaaa-FIAP/CHL1-sprint3-arduino/blob/main/flows.json">aqui</a>.</h6>
 
 ### Dashboard no TagoIO
-<img src="https://github.com/Rafafaaa-FIAP/CHL1-arduino-sprint3/blob/main/dashboard.PNG" alt="dashboard" width="500" />
+<img src="https://github.com/Rafafaaa-FIAP/CHL1-sprint3-arduino/blob/main/dashboard.PNG" alt="dashboard" width="500" />
 <h6>Acesse o vídeo de demonstração do funcionamento clicando <a href="https://youtu.be/tl2RWaOU1Pw">aqui</a>.</h6>
 
 
